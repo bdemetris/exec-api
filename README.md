@@ -1,5 +1,7 @@
 ## basestructure
 
+original example at {github.com/tonyalaribe/todoapi}
+
 Base structure shows how a todo rest api can be implemented in golang, with an idiomatic and modular codebase.
 
 

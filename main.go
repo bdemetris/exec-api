@@ -5,8 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"features/todo"
-
+	"github.com/bdemetris/exec-api/features/todo"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 	"github.com/go-chi/render"
